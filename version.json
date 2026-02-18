@@ -1,5 +1,5 @@
 {
   "version": "1.1.0",
-  "download_url": "https://github.com/Druidic-Developments/music-organizer-releases/releases/download/v1.0.0/MusicOrganizerSetup_v1.1.0.exe",
-  "release_notes": "Version 1.0.0\n\n• Track numbers in filenames\n• Custom folder structure presets\n• Undo button\n• Duplicate detection\n• Settings saved between sessions"
+  "download_url": "https://github.com/Druidic-Developments/music-organizer-releases/releases/download/v1.1.0/MusicOrganizerSetup_v1.1.0.exe",
+  "release_notes": "Version 1.1.0\n\n• Updated uninstall options\n\n•Updated settings windows"
 }
